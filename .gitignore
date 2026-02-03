@@ -1,0 +1,19 @@
+# Prevent accidental source leakage
+*.swift
+*.py
+*.sh
+*.xcodeproj/
+*.xcworkspace/
+*.dSYM/
+.env*
+*.pem
+*.key
+credentials*
+build/
+DerivedData/
+
+# Only allow:
+# - *.dmg (release assets uploaded via gh release)
+# - appcast.xml (Sparkle feed)
+# - remote-config.json (feature flags)
+# - README.md (documentation)
