@@ -8,7 +8,7 @@
             <sparkle:version>270</sparkle:version>
             <sparkle:shortVersionString>4.3.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/howeirdo/ideaplace-releases/main/IdeaPlace-v4.3.7.dmg" length="86192115" type="application/octet-stream" sparkle:edSignature="5TTFOaw2N1sicV0cffCAFHHXR3g4BoTv8hSyDS3Q3/IauUh+J6RolJidUWqnGXHm+iTbfehdUKFASZb4vK7dCw=="/>
+            <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v4.3.7-b270/IdeaPlace-v4.3.7.dmg" length="86192115" type="application/octet-stream" sparkle:edSignature="5TTFOaw2N1sicV0cffCAFHHXR3g4BoTv8hSyDS3Q3/IauUh+J6RolJidUWqnGXHm+iTbfehdUKFASZb4vK7dCw=="/>
         </item>
         <item>
             <title>4.3.6</title>
