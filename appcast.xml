@@ -10,8 +10,5 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v4.3.9-b276/IdeaPlace-v4.3.9.dmg" length="86499392" type="application/octet-stream" sparkle:edSignature="zQNsLqRywoPxrmgfLQHRfTnYtHxTt4VXADXxhovgijic6J8tZ+nDdc5+KvXIojgwEesOty8Ly83HskkiG8sLAQ=="/>
         </item>
-
-        </item>
-        </item>
     </channel>
 </rss>
