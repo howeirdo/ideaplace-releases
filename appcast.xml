@@ -3,12 +3,12 @@
     <channel>
         <title>IdeaPlace</title>
         <item>
-            <title>50.3.1</title>
-            <pubDate>Tue, 07 Apr 2026 01:29:34 -0700</pubDate>
-            <sparkle:version>50030101</sparkle:version>
-            <sparkle:shortVersionString>50.3.1</sparkle:shortVersionString>
+            <title>50.3.2</title>
+            <pubDate>Tue, 07 Apr 2026 01:36:51 -0700</pubDate>
+            <sparkle:version>50030201</sparkle:version>
+            <sparkle:shortVersionString>50.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v50.3.1/IdeaPlace-v50.3.1.dmg" length="191594010" type="application/octet-stream" sparkle:edSignature="6pShidOnDdsqp8bxDIwV90jWS33iJqeOwZSL5dqIEWXyR4dXr0bt6ZXOGSYOYpbZRWUeD90Z7L2g0mW3JEmyCw=="/>
+            <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v50.3.2/IdeaPlace-v50.3.2.dmg" length="191640732" type="application/octet-stream" sparkle:edSignature="1vR1CleP5hLqRsBH0nbdygmgJODoocbH9+Xo02s9/mBSFOxrg6oTTsalVpaw75Opx7BhagccSBYhZ82+qpRfAw=="/>
         </item>
 
     </channel>
