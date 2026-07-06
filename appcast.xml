@@ -1,15 +1,14 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>IdeaPlace</title>
         <item>
-            <title>97.0.4</title>
-            <pubDate>Mon, 06 Jul 2026 01:54:24 -0700</pubDate>
-            <sparkle:version>97000401</sparkle:version>
-            <sparkle:shortVersionString>97.0.4</sparkle:shortVersionString>
+            <title>97.0.5</title>
+            <pubDate>Mon, 06 Jul 2026 04:20:49 -0700</pubDate>
+            <sparkle:version>97000501</sparkle:version>
+            <sparkle:shortVersionString>97.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v97.0.4/IdeaPlace-v97.0.4.dmg" length="403945976" type="application/octet-stream" sparkle:edSignature="kXuQH5jf9C1UMNuTSJcBqjDyS4YTgc1a+r9EX+BDHw4IwMDW7sQ1aMn9WxTbWEWKjOpx+F4CaBsR+Sygm2zlCQ=="/>
+            <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v97.0.5/IdeaPlace-v97.0.5.dmg" length="403636758" type="application/octet-stream" sparkle:edSignature="K7Ixohn2F4S+wsMy7B+vE1dE6wiQHWC4KPTjQ3SyVKzHtsuxaqL2hW/Zq6QqLkFzb5CUvu83j4JGbHU/a14wBw==" />
         </item>
-
     </channel>
 </rss>
