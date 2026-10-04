@@ -3,12 +3,15 @@
     <channel>
         <title>Studio</title>
         <item>
-            <title>149.0.0</title>
-            <pubDate>Sun, 27 Sep 2026 08:09:01 -0700</pubDate>
-            <sparkle:version>149000001</sparkle:version>
-            <sparkle:shortVersionString>149.0.0</sparkle:shortVersionString>
+            <title>149.1.0</title>
+            <pubDate>Sat, 03 Oct 2026 22:06:23 -0700</pubDate>
+            <sparkle:version>149010001</sparkle:version>
+            <sparkle:shortVersionString>149.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.0.0/Studio-v149.0.0.dmg" length="1024416403" type="application/octet-stream" sparkle:edSignature="PRfQbLyMzp3cKyzTaEbt4TU0qLb7ZKXnx7qR0W4nlfDStbIyt1CcRU8yx1cQbaaZ54G94XVX3/TrPSzgV3qIBA==" />
+            <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.1.0/Studio-v149.1.0.dmg" length="1027152570" type="application/octet-stream" sparkle:edSignature="X6TBTrAYRLRAhYFZ+nKX4g6vOXwa03O9opaKzOVJo6BpggSN5R5u75HXked+It28VgtLsSfr1UeWekVuyxQTCg==" />
+            <sparkle:deltas>
+                <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.1.0/Studio149010001-149000001.delta" sparkle:deltaFrom="149000001" length="20545726" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZNL21arl0b249Yzi5tkRgQdFf/EB8NaUZvbHGCi2WGwIfM47loPsxfVvMIb+s+hy7ZIkG/MTqXatSBxRv0ZnBw==" />
+            </sparkle:deltas>
         </item>
-    </channel>
+        </channel>
 </rss>
