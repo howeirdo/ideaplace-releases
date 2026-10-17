@@ -3,19 +3,19 @@
     <channel>
         <title>Studio</title>
         <item>
-            <title>149.7.0</title>
-            <pubDate>Fri, 16 Oct 2026 22:59:16 -0700</pubDate>
-            <sparkle:version>149070001</sparkle:version>
-            <sparkle:shortVersionString>149.7.0</sparkle:shortVersionString>
+            <title>149.8.0</title>
+            <pubDate>Sat, 17 Oct 2026 01:19:29 -0700</pubDate>
+            <sparkle:version>149080001</sparkle:version>
+            <sparkle:shortVersionString>149.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.7.0/Studio-v149.7.0.dmg" length="1020274650" type="application/octet-stream" sparkle:edSignature="Cu7JfFaoaFlp/T/xPwshpGoIDe2aH0sKiMIKOq4Sj+dK4BvNJySJ26TP9qR0Df+ff1rJkWm7x/Gzu7FY63SNAA==" />
+            <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.8.0/Studio-v149.8.0.dmg" length="1020308378" type="application/octet-stream" sparkle:edSignature="/hGdayPvVnQM5Z27z7JJFqkz20uHLXcsgDpSAkueRQ8Y0xRDblzhwppaXSxpdG1e2I7CKGRWB45QxQpu2MnnAw==" />
             <sparkle:deltas>
-                <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.7.0/Studio149070001-149060101.delta" sparkle:deltaFrom="149060101" length="20144062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OCR7BNSU8XGkKxrE/oUQ0vKvSHXJ8SFjRlyWVUUBGaUFXiI+zYcOcWsrXh9LLLZPozXcE9DctAZUWym/Z0VnAg==" />
-                <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.7.0/Studio149070001-149060001.delta" sparkle:deltaFrom="149060001" length="19720010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6hds4lQOkXCbCCX02X8FG4HWvxFXRgXLq4RiBLjOuyjEYeDT1CjG5StYSmlwibH8XrUTHVxy5d2hdaFpnyYHBg==" />
-                <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.7.0/Studio149070001-149050101.delta" sparkle:deltaFrom="149050101" length="23192374" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cH4fhCzFrSJMdhsMmwhziBeIykgTH1gRFCyL/SHXAz1DHcNFFIKnOeLYPabWqB0Zx+apCtV2ZplWMkKk4QlGDg==" />
-                <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.7.0/Studio149070001-149050001.delta" sparkle:deltaFrom="149050001" length="17950550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/oGR2uDoafWQkLpYQ5PizPM2HG0UhJR4jLQ+GKxZMcb88jE6cVrCF3zkeX+tRckHKIdhoIDpibKRK58XU3FRAQ==" />
-                <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.7.0/Studio149070001-149040001.delta" sparkle:deltaFrom="149040001" length="22537886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="U1ZUcM4XuvflrnQeOCuIWJSYcRjEcY4Mp5+MsCLv5rne+QiRJn8z9kVUJ+Vj2CcNtQ7Y5/AIWYW1u+k0B0qfCA==" />
+                <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.8.0/Studio149080001-149070001.delta" sparkle:deltaFrom="149070001" length="18695598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6vmm6Ez+4j61N4Vg98mIb6PXuwGW+NPrYRShE2EZ+6ifXayvUHxrcOVwNGkVqKN37IhmSFJovCxY0LpnarO4BQ==" />
+                <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.8.0/Studio149080001-149060101.delta" sparkle:deltaFrom="149060101" length="19937142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4+vgyi7rm2vVa8qu1DyypTK7ptfBjhtt4XyLToQLKZCtsIhlw+6e3vFluIK6PifdPekpKSnQ+pGRx6Xi4uZFAQ==" />
+                <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.8.0/Studio149080001-149060001.delta" sparkle:deltaFrom="149060001" length="20562942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fm80RA+hCrhB7w/6vEXgdveTL2FkOZAjlFkHOZMUBN2p0AUkedqcyUh7VA8SBobrs4KDcT39ktbtFAbQX+yZAA==" />
+                <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.8.0/Studio149080001-149050101.delta" sparkle:deltaFrom="149050101" length="22739126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QfdMrJIFXTi0aie/TryT0q2JXx77qwxzPoBflhnP0K5Z0e3z1eDxvMhaxL/ssk/ESHMBS4Jq/RjoRGi7mmNXAw==" />
+                <enclosure url="https://github.com/howeirdo/ideaplace-releases/releases/download/v149.8.0/Studio149080001-149050001.delta" sparkle:deltaFrom="149050001" length="22906534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UVo42MHyvEiL8LNVsaAY+j6TkHvlxBg3QiOb3PMz5Qg7sqQMNjWwjkCqJ1VexamKvDLcfwkbHobxpWywnox8Cg==" />
             </sparkle:deltas>
         </item>
         </channel>
